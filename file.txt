@@ -1,0 +1,2 @@
+propal.cl
+azure_secret=$prueba
